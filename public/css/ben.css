@@ -1,0 +1,48 @@
+.coco {
+    width: 500px;
+    height: auto;
+    color: #6c757d;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.lolo {
+    background-color: #f4623a;
+    border: none;
+    border-radius: 15px;
+    margin-left: 180px;
+    margin-top: 30px;
+    height: auto;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.zozo {
+    background-color: #a3a3a3;
+    text-transform: none;
+    text-align: right;
+}
+
+.bedit {
+    float: right;
+    margin-right: 10px;
+}
+
+.bcomleted {
+    float: right;
+    margin-right: 10px;
+}
+
+.delete {
+    float: right;
+}
+
+.skr {
+    height: 400px;
+    width: auto;
+    overflow-y: auto;
+}
